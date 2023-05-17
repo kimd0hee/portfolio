@@ -1,11 +1,8 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
-import { CgCPlusPlus } from "react-icons/cg";
+
 import {
   DiJavascript1,
-    DiUbuntu,
-  DiNodejs,
-  DiMongodb,
   DiGit,
   DiJava,
     DiPython

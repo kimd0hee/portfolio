@@ -5,7 +5,7 @@ import { CgWebsite } from "react-icons/cg";
 import { BsGithub } from "react-icons/bs";
 import { FaVuejs } from "react-icons/fa";
 import {Col, Row} from "react-bootstrap";
-import {SiSpringboot, SiAmazons3, SiAmazonaws} from "react-icons/si";
+import {SiSpringboot, SiAmazonaws} from "react-icons/si";
 function ProjectCards0(props) {
   return (
     <Card className="project-card-view">

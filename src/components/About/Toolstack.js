@@ -14,7 +14,7 @@ import {
 } from "react-icons/si";
 
 import {DiUbuntu} from "react-icons/di";
-import logo from "../../Assets/logo.png";
+
 
 function Toolstack() {
     return (
