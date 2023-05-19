@@ -7,7 +7,7 @@ import {BrowserRouter} from "react-router-dom";
 
 ReactDOM.render(
     <React.StrictMode>
-        <BrowserRouter basename={"https://rad-pastelito-7362fe.netlify.app"}>
+        <BrowserRouter basename={"https://boisterous-yeot-3783e7.netlify.app"}>
 
             <App/>
         </BrowserRouter>
